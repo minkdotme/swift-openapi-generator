@@ -38,7 +38,7 @@ let package = Package(
 
         // Read OpenAPI documents
         .package(
-            url: "https://github.com/minkapps/OpenAPIKit",
+            url: "https://github.com/minkdotme/OpenAPIKit",
             revision: "ffffaff5593085a05d5a339e200d0c1dbc70ecea",
             traits: []
         ),
